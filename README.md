@@ -9,4 +9,4 @@ um webchat onde é possivel fazer login e enviar mensagens!
 
 **Front-end:** React, Next.js, TypeScript, TailwindCSS, NextUi, Axios
 
-**Back-end:** C#, .Net, JWt, Postgres, AWS
+**Back-end:** node, express.js, javascript. typescript, prisma, Postgres, AWS
